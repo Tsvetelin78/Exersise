@@ -1,0 +1,306 @@
+/*h2:hover {
+  color: blueviolet;
+}
+.title {
+  color: red;
+  text-align: center;
+}
+
+.subtitle {
+  color: blue;
+}
+.subtitle1 {
+  color: chocolate;
+}
+#contact-us {
+  color: green;
+}
+
+li:nth-child(3) {
+  color: cornflowerblue;
+}
+ul ol li === li:only-child
+li:only-child {
+  color: rgb(237, 100, 100);
+}
+
+#link:link {
+  color: rgb(157, 255, 0);
+}
+#link:visited {
+  color: red;
+}*/
+/*3-ta zadacha
+  .cvet {
+  background-color: #d6d6d6;
+  padding-top: 26px;
+  padding-bottom: 26px;
+  font-size: 26px;
+}
+#name {
+  padding-top: 26px;
+  padding-bottom: 16px;
+  font-size: 20px;
+}
+#cvet {
+  background-color: #d6d6d6;
+}
+#dell {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  background-color: #d6d6d6;
+}*/
+/*
+.Re {
+  background-color: tomato;
+
+  width: 80px;
+  height: 40px;
+}
+
+.red {
+  background-color: tomato;
+
+  width: 80px;
+  height: 40px;
+}
+span {
+  display: flex;
+  text-align: center;
+}
+*/
+/*
+.red {
+  color: red;
+}
+.green {
+  color: green;
+}
+#test {
+  color: maroon;
+}
+
+.org {
+  background-color: orange;
+  text-align: right;
+  line-height: 2;
+  letter-spacing: 4px;
+  word-spacing: 20px;
+}
+.yellow {
+  background-color: yellow;
+}
+.font-styles {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: italic;
+  font-weight: bold;
+  text-decoration: underline;
+  font-size: 50px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.box {
+  border: 1px solid red;
+  height: 50px;
+  width: 300px;
+  padding: 20px;
+  margin: 20px;
+}
+
+h2 {
+  color: red;
+}
+h2 {
+  color: blue;
+}
+
+.sub-heading {
+  color: blue;
+}
+h3 {
+  color: red !important;
+}
+#sub {
+  color: orange;
+}
+
+.Inheritance {
+  color: orange;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 30px;
+}
+
+th,
+td {
+  border: 1px solid #ccc;
+  padding: 15px;
+}
+table {
+  border-collapse: collapse;
+  width: 60%;
+}
+td {
+  text-align: center;
+}
+
+.cont-1 {
+  border: 1px solid red;
+  display: inline;
+}
+.cont-2 {
+  border: 1px solid blue;
+  display: none;
+}
+.p1 {
+  border: 1px solid red;
+  position: sticky;
+  top: 50px;
+  left: 50px;
+}
+
+.conteiner {
+  border: 1px solid black;
+  position: relative;
+  width: 200px;
+  height: 2000px;
+}
+.p2 {
+  border: 1px solid blue;
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+}
+.em-container {
+  font-size: 20px;
+  height: 2em;
+}
+.em {
+  font-size: 1.5em;
+}
+.rem {
+  font-size: 3rem;
+  height: clac(50vh - 100px);
+  height: max(50vh, 600px);
+  height: min(50vh - 100px);
+
+  border: 1px solid #333;
+  width: 50vw;
+}
+*/
+/*body {
+  margin: 0;
+}
+.container {
+  border: 6px solid black;
+  display: flex;
+  height: 400px;*/
+/*height: 400px;
+  flex-direction: column;
+  flex-wrap: wrap-reverse;*/
+/*flex-flow: row-reverse wrap;
+  flex-wrap: wrap;
+  column-gap: 20px;
+  row-gap: 30px;*/
+/*flex-wrap: wrap;
+  gap: 40px 20px;*/
+/* flex-direction: column;
+  height: 800px;
+  justify-content: space-evenly;*/
+/*height: 800px;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: baseline;
+   height: 800px;
+  flex-wrap: wrap;
+  align-content:space-around; 	*/
+/* align-items: flex-end;
+}*/
+/*.flex-item {
+  color: white;
+  font-size: 1.5rem;
+  padding: 1rem;
+  text-align: center;
+  /*flex-grow: 1;*/
+/*flex-shrink: 0;*/
+/*}
+
+.item-1 {
+  background-color: #b4bf35;*/
+/*flex-basis: 100px;*/
+/*flex-grow: 1;*/
+/*flex: 2 3 20px;*/
+/*align-self: flex-start;
+}
+.item-2 {
+  background-color: #b95f21;
+  align-self: flex-end;
+}
+.item-3 {
+  background-color: #1c4c56;
+  order: 1;
+}
+.item-4 {
+  background-color: #cfb276;
+  align-self: center;
+}
+.item-5 {
+  background-color: #6b0803;
+  flex-grow: 1;
+  align-self: stretch;
+}
+.item-6 {
+  background-color: #1c4c56;
+  flex-grow: 3;
+}
+.item-7 {
+  background-color: #b95f21;
+  flex-shrink: 4;
+}
+.item-8 {
+  background-color: #01243a;
+}
+.item-9 {
+  background-color: #aad041;
+}
+*/
+
+
+/*.one {
+  background-color: red;
+  height: 30px;
+  width: 60px;
+  text-align: center;
+  font-size: small;
+}
+
+.two {
+  background-color: red;
+  height: 30px;
+  width: 60px;
+  text-align: center;
+  font-size: small;
+}
+
+.main1 {
+  display: flex;
+}
+
+.tree {
+  background-color: blue;
+  height: 25px;
+  width: 23px;
+  font-size: small;
+  text-align: center;
+}
+
+.four {
+  background-color: blue;
+  font-size: small;
+  height: 25px;
+  width: 60px;
+  text-align: center;
+}
